@@ -47,11 +47,7 @@ flutter:
   fonts:
     - family: Hack Nerd Font
       fonts:
-        - asset: fonts/Hack Nerd Font Regular.ttf
-
-    - family: Hack Nerd Font Mono
-      fonts:
-        - asset: fonts/Hack Nerd Font Regular Mono.ttf
+        - asset: fonts/Hack_Nerd_Font_Regular.ttf
 
   # To add assets to your application, add an assets section, like this:
   # assets:
